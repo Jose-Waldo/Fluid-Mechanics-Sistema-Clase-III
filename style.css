@@ -1,0 +1,151 @@
+.titulo-prinsipal {
+    text-align: center;
+    color: #0677f9cf;
+    /***************************************************/
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.contenedor-puntos {
+    margin-bottom: 10vh;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.resultados {
+    width: 350px;
+    height: 200px;
+    position: absolute;
+    left: 300px;
+    top: 500px;
+    /***************************************************/
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    box-sizing: border-box;
+    padding: 20px;
+    background: linear-gradient(to top, #4594ef5c, #0677f9cf);
+
+}
+
+.contenedor-punto {
+    width: 300px;
+    height: 200px;
+    background: linear-gradient(to top, #4594ef5c, #0677f9cf);
+    color: white;
+    /***************************************************/
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    padding: 20px;
+    display: inline-block;
+}
+
+.p1 {
+    float: left;
+}
+
+.contenedor-variables {
+    margin-top: 3vh;
+}
+
+.parametro {
+    margin-bottom: 2vh;
+}
+
+.contenedor-otros-para {
+    background: linear-gradient(to top, #4594ef96, #0d7bf9af);
+    color: white;
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+/***************************************************/
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.entradas-extr {
+    width: 400px;
+    padding: 30px;
+    float: left;
+    margin-right: 50px;
+    display: inline-block;
+}
+
+.contenedor-param {
+    margin-bottom: 3vh;
+}
+
+.labe-prog {
+    display: inline-block;
+    width: 160px;
+}
+
+.entrada-caudal {
+    width: 100px;
+}
+
+
+/*******************************************************/
+
+.parametros-tramo {
+    display: inline-block;
+    width: 500px;
+}
+
+.contenedor-botones {
+    margin-top: 20px;
+}
+
+.boton-cal {
+    width: 140px;
+}
+
+.lab-en {
+    display: inline-block;
+    width: 60px;
+}
+
+.en-com {
+    width: 60px;
+}
+
+.contenedor-acces {
+    height: 200px;
+    width: 500px;
+    margin-top: 50px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.lista-ime {
+    list-style-type: none;
+}
+
+.laber-acce {
+    display: inline-block;
+    width: 370px;
+}
+
+.items-acce {
+    margin-bottom: 20px;
+}
+
+.numero-elementos-acce {
+    width: 40px;
+}
+
+.lab-entra {
+    display: inline-block;
+    width: 100px;
+    margin-left: 30px;
+}
+
+.entrd-conten {
+    width: 60px;
+}
